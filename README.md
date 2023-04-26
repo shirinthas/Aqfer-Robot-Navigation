@@ -7,10 +7,12 @@ This program is written in Java and takes input from the user in the form of two
 **Sample input and output tested**
 
 **_Sample Input 1_**
+ 
  3,3,E 7,3,E
  
  
 **_Sample Output 1_**
+
 Source: 3 3 E, Destination: 7 3 E
 Steps:
 Move Forward: 4 3 E
@@ -25,9 +27,11 @@ Move Forward:  4
 Turn Left:     0
 
 **_Sample Input 2_**
+
 4,2,E 8,2,E
 
 **_Sample Output 2_**
+
 Source: 4 2 E, Destination: 8 2 E
 Steps:
 Move Forward: 5 2 E
