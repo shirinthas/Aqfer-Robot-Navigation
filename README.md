@@ -38,28 +38,28 @@ To run the program, you would need to save the code in a file with a .java exten
 
       Turn Left:     0
 
-**_Sample Input 2_**
+   **_Sample Input 2_**
 
-4,2,E 8,2,E
+      4,2,E 8,2,E
 
-**_Sample Output 2_**
+   **_Sample Output 2_**
 
-Source: 4 2 E, Destination: 8 2 E
+      Source: 4 2 E, Destination: 8 2 E
 
-Steps:
+      Steps:
 
-Move Forward: 5 2 E
+      Move Forward: 5 2 E
 
-Move Forward: 6 2 E
+      Move Forward: 6 2 E
 
-Move Forward: 7 2 E
+      Move Forward: 7 2 E
 
 
-Summary:
+      Summary:
 
-Total Steps:   3
+      Total Steps:   3
 
-Move Forward:  3
+      Move Forward:  3
 
 Turn Left:     0
 
