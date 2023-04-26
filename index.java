@@ -86,8 +86,8 @@ public class Main {
 		System.out.println();
 		System.out.println("Summary:");
 		System.out.println("Total Steps:   " + (moveforward + turnleft));
-		System.out.println("Move Forward:   " + moveforward);
-		System.out.println("Turn Left:      " + turnleft);
+		System.out.println("Move Forward:  " + moveforward);
+		System.out.println("Turn Left:     " + turnleft);
 		
 	}
 	
