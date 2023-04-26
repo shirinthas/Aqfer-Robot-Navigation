@@ -61,5 +61,5 @@ To run the program, you would need to save the code in a file with a .java exten
 
       Move Forward:  3
 
-Turn Left:     0
+      Turn Left:     0
 
