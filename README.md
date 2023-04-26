@@ -17,14 +17,20 @@ Source: 3 3 E, Destination: 7 3 E
 
 Steps:
 Move Forward: 4 3 E
+
 Move Forward: 5 3 E
+
 Move Forward: 6 3 E
+
 Move Forward: 7 3 E
 
 
 Summary:
+
 Total Steps:   4
+
 Move Forward:  4
+
 Turn Left:     0
 
 **_Sample Input 2_**
@@ -36,13 +42,19 @@ Turn Left:     0
 Source: 4 2 E, Destination: 8 2 E
 
 Steps:
+
 Move Forward: 5 2 E
+
 Move Forward: 6 2 E
+
 Move Forward: 7 2 E
 
 
 Summary:
+
 Total Steps:   3
+
 Move Forward:  3
+
 Turn Left:     0
 
