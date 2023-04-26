@@ -14,6 +14,7 @@ This program is written in Java and takes input from the user in the form of two
 **_Sample Output 1_**
 
 Source: 3 3 E, Destination: 7 3 E
+
 Steps:
 Move Forward: 4 3 E
 Move Forward: 5 3 E
@@ -33,6 +34,7 @@ Turn Left:     0
 **_Sample Output 2_**
 
 Source: 4 2 E, Destination: 8 2 E
+
 Steps:
 Move Forward: 5 2 E
 Move Forward: 6 2 E
